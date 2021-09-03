@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755503468232",
+    "firebase_url": "https://mdtravell-default-rtdb.firebaseio.com",
+    "project_id": "mdtravell",
+    "storage_bucket": "mdtravell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755503468232:android:7a84a7f061585edf955ffd",
+        "android_client_info": {
+          "package_name": "com.example.mew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755503468232-u1soltg2508f37ef2shr3hkbhn7iaool.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mew",
+            "certificate_hash": "13178869c63bbacfdbe6c8e42bb74333c786a822"
+          }
+        },
+        {
+          "client_id": "755503468232-ochkjaoebbprtte145hddj6b9fpnjeth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX2STaUJJew6f5UXhfLlEejhZaWnvQH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755503468232-ochkjaoebbprtte145hddj6b9fpnjeth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
